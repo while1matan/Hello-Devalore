@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Hello Devalore",
+    "sdkVersion": "26.0.0",
+    "icon": "./src/images/logo.png",
+    "version": "1.0.0",
+    "slug": "hello-devalore",
+    "ios": {
+      "bundleIdentifier": "il.co.while1.apps.hellodevalore"
+    },
+    "android": {
+      "package": "il.co.while1.apps.hellodevalore",
+      "config": {
+        "googleMaps": {
+          "apiKey": "***"
+        }
+      }
+    }
+  }
+}
